@@ -48,3 +48,8 @@ print(age>23 or age<2)
 
 
 print(not age)
+
+
+a=int("20",4)
+print(a)
+
