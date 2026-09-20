@@ -1,0 +1,24 @@
+a=24
+print(type(a))
+b=23.999999
+print(type(b))
+c=23.9999999999999999999999999999999999999999999999999999999
+print(type(c))
+print(c)
+d=24.5000000000000000000000000000000000000000000000000000111
+print(d)
+print(round(d))
+e=24.51000000000000000000000000000000000000000000000000000000000000
+print(round(e))
+
+g="Bool"
+h=1
+i=0
+print(bool(g))
+print(bool(h))
+print(bool(i))
+
+j=""
+print(bool(j))
+k=" "
+print(bool(k))
