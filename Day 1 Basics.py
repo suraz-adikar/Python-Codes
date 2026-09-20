@@ -34,5 +34,3 @@ arr.dtype
 '''Statement ->A=10 Store/refer to 10 using the name x.'''
 
 
-
-import pandas as pd
