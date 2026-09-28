@@ -29,3 +29,9 @@ a=result[0]
 b=result[1]
 print(a,b)
 print(a==b)
+
+hello={
+    "name":"Suraj",
+    "age":42
+}
+print(hello)

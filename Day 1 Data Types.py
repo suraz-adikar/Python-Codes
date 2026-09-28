@@ -22,3 +22,4 @@ j=""
 print(bool(j))
 k=" "
 print(bool(k))
+k==k
